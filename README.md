@@ -1,4 +1,4 @@
-*Project from 42's Common Core, finished in November 2021.*
+*Project from 42's Common Core, finished in November 2022.*
 
 # Libft
 The first project of the 42 Common Core, it consists in creating our own library of general purpose C functions to use for future projects.
